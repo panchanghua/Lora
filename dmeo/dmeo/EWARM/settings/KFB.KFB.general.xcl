@@ -1,0 +1,15 @@
+"I:\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"I:\Embedded Workbench 8.2\arm\bin\armstlink2.dll" 
+
+"G:\代码\大板子\dmeo\dmeo\EWARM\KFB\Exe\KFB.out" 
+
+--plugin="I:\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="I:\Embedded Workbench 8.2\arm\config\debugger\ST\STM32L0xx.dmac" 
+
+--flash_loader="I:\Embedded Workbench 8.2\arm\config\flashloader\ST\FlashSTM32L0xxx8.board" 
+
+
+
+

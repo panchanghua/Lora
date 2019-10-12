@@ -1,0 +1,15 @@
+"I:\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"I:\Embedded Workbench 8.2\arm\bin\armstlink2.dll" 
+
+"G:\小板子\STM32F103C8T6\Release\Exe\STM32F10X Template.out" 
+
+--plugin="I:\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="I:\Embedded Workbench 8.2\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="I:\Embedded Workbench 8.2\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
